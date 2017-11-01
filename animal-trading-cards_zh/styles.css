@@ -2,7 +2,9 @@
 
 h3 {
   padding-bottom: 10px;
-}img {
+}
+
+img {
   width:300px;
 }
 
@@ -13,18 +15,18 @@ ul,li {
    margin:0; padding:0; list-style:none;
 }
 
-.context{
+.context {
   border: 2px solid #D8D8D8	;
   box-shadow: 5px 5px #B0B0B0;
   width:325px;
 }
 
-.info{
+.info {
   border: 2px solid #D8D8D8;
   padding: 10px 5px 10px 5px;
   width:286px;
 }
 
-.anecdote{
+.anecdote {
   font-style: italic;
 }
