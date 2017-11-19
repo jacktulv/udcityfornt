@@ -1,0 +1,32 @@
+body {
+  font-family: 'Lato', sans-serif;
+  
+}
+
+
+
+.mainhr {
+  border-top:2px solid #7d97ad;
+  margin-top: 15px;
+}
+
+
+
+
+.logoimg {
+  max-width: 50%;
+  margin-top: 20px;
+
+
+}
+
+.backgroundImage {
+  width: 100%;
+  max-height: 400px;
+}
+
+@media screen and (max-width:1000px) {
+  .logoimg {
+      margin: 0 auto;
+  }
+}
