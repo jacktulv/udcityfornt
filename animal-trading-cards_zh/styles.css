@@ -1,0 +1,32 @@
+/* 添加 CSS */
+
+h3 {
+  padding-bottom: 10px;
+}
+
+img {
+  width:300px;
+}
+
+span {
+  font-weight: bold;
+}
+ul,li {
+   margin:0; padding:0; list-style:none;
+}
+
+.context {
+  border: 2px solid #D8D8D8	;
+  box-shadow: 5px 5px #B0B0B0;
+  width:325px;
+}
+
+.info {
+  border: 2px solid #D8D8D8;
+  padding: 10px 5px 10px 5px;
+  width:286px;
+}
+
+.anecdote {
+  font-style: italic;
+}
